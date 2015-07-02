@@ -22,9 +22,7 @@
     "properties",
     "values"
   ],
-  "dependencies": {
-    "is-object": "~1.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "^4.0.0",
     "standard": "^4.0.0"
