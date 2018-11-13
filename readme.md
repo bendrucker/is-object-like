@@ -1,4 +1,4 @@
-# is-object-like [![Build Status](https://travis-ci.org/bendrucker/is-object-like.svg?branch=master)](https://travis-ci.org/bendrucker/is-object-like)
+# is-object-like [![Build Status](https://travis-ci.org/bendrucker/is-object-like.svg?branch=master)](https://travis-ci.org/bendrucker/is-object-like) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/is-object-like.svg)](https://greenkeeper.io/)
 
 > Check if a value can be assigned properties (objects and functions)
 
